@@ -5,3 +5,11 @@
 
 Un modèle de simulation amélioré pour les moteurs à courant continu Contrôle du système de convoyeur à entraînement par courroie
 
+![Alt Text](https://github.com/arabio-arab/Contr-le-du-syst-me-de-convoyeur-_SIMULINK/blob/arabio-arab-patch-1/1.png)
+
+![Alt Text](https://github.com/arabio-arab/Contr-le-du-syst-me-de-convoyeur-_SIMULINK/blob/arabio-arab-patch-1/2.png)
+
+![Alt Text](https://github.com/arabio-arab/Contr-le-du-syst-me-de-convoyeur-_SIMULINK/blob/arabio-arab-patch-1/3.png
+)
+
+![Alt Text](https://github.com/arabio-arab/Contr-le-du-syst-me-de-convoyeur-_SIMULINK/blob/arabio-arab-patch-1/4.png)
